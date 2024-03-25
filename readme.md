@@ -77,7 +77,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning) - Have you had troubles with versioning an Event Sourced system? Just getting into a new Event Sourced system for the first time? This book is the definitive guide of how to handle versioning over long periods of time.
 - [What is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/) - A quick read exploring the core patterns and principles of Domain-Driven Design, as well as strategies for applying DDD in brownfield projects.
 - [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - Writing Great Specifications is an example-rich tutorial that teaches you how to write good Gherkin specification documents that take advantage of Specification by Example's benefits.
-- 
+- [Get Your Hands Dirty on Clean Architecture](https://leanpub.com/get-your-hands-dirty-on-clean-architecture) - A Hands-on Guide to Creating Clean Web Applications with Code Examples in Java. 
 
 ## Free eBooks
 
@@ -265,6 +265,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDDSample](https://github.com/citerus/dddsample-core) - Sample DDD project using Spring Boot (originally hosted in http://dddsample.sourceforge.net/)
 - [Eclipse CargoTracker](https://eclipse-ee4j.github.io/cargotracker/) - This project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). [The code](https://github.com/eclipse-ee4j/cargotracker/) is intended to mirror a non-trivial application that developers in the real work would work on. It attempts to demonstrate first-hand how you can use Jakarta EE to effectively meet practical enterprise concerns such as productivity, agility, testability, flexibility, maintainability, scalability and security. The project is directly based on the well known original [Java DDD sample application](https://github.com/citerus/dddsample-core) developed by DDD pioneer Eric Evans' company Domain Language and the Swedish software consulting company Citerus. 
 - [https://github.com/felipexw/clean-arch-ddd-intro](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
+- [Demo spring web app](https://github.com/thombergs/buckpal) - A example of implementation of Hexagonal Architecture
 
 ### PHP
 - [CodefyPHP Framework](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
